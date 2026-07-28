@@ -17,13 +17,7 @@ or max iterations reached. Compares against a single-shot baseline.
    ```
 4. Choose an LLM backend (pick one):
 
-   **Option A — Anthropic API (paid, best quality)**
-   ```
-   export LLM_BACKEND=anthropic
-   export ANTHROPIC_API_KEY="sk-ant-..."
-   ```
-
-   **Option B — Ollama (free, runs locally, no API key)**
+   ** Ollama (free, runs locally, no API key)**
    ```
    # 1. Install Ollama: https://ollama.com/download
    # 2. Pull a model (pick based on available RAM):
