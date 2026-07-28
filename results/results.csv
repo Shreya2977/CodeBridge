@@ -1,0 +1,4 @@
+script,num_tests,baseline_passed,baseline_pass_rate,framework_passed,framework_iterations,wall_clock_seconds,error
+bubble_sort.f90,5,False,0.2,False,5,870.78,
+newton_raphson.f90,3,True,1.0,True,0,359.73,
+prime_sieve.f90,8,False,0.5,False,5,769.96,

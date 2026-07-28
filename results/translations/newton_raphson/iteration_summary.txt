@@ -1,0 +1,6 @@
+Script: newton_raphson.f90
+Baseline passed: True (pass_rate=1.00)
+Framework passed: True
+
+Iteration | Pass rate
+        0 | 1.00

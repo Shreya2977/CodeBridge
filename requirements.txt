@@ -1,0 +1,5 @@
+# anthropic is only needed if LLM_BACKEND=anthropic (the default)
+anthropic>=0.39.0
+docker>=7.1.0
+# requests is only needed if LLM_BACKEND=ollama
+requests>=2.31.0

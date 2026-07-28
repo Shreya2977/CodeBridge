@@ -1,0 +1,11 @@
+Script: prime_sieve.f90
+Baseline passed: False (pass_rate=0.50)
+Framework passed: False
+
+Iteration | Pass rate
+        0 | 0.50
+        1 | 0.50
+        2 | 0.50
+        3 | 0.38
+        4 | 0.38
+        5 | 0.38

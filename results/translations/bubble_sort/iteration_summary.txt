@@ -1,0 +1,11 @@
+Script: bubble_sort.f90
+Baseline passed: False (pass_rate=0.20)
+Framework passed: False
+
+Iteration | Pass rate
+        0 | 0.20
+        1 | 0.20
+        2 | 0.20
+        3 | 0.20
+        4 | 0.20
+        5 | 0.20
