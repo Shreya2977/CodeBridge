@@ -258,5 +258,3 @@ framework's repair loop fixed it.
 | `ERROR: Could not open requirements file` | You're not in the project root — `cd` into the folder containing `requirements.txt` first |
 | Fortran source itself fails with `End of file` during test generation | The LLM guessed a bad stdin format; this is skipped automatically and logged — a few skips per script is normal |
 | First `python src/llm_client.py` call takes a long time | Normal — first call loads the model into memory; subsequent calls are faster |
-```
-
